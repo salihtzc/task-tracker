@@ -4,7 +4,7 @@ import GorevleriGoster from "../components/GorevleriGoster"
 import Data from "../helper/Data"
 
 const Home = () => {
-console.log(Data);
+
 const [gorevler, setGorevler] = useState([])
 
 
